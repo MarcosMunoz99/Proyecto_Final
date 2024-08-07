@@ -1,5 +1,4 @@
-# Creación del archivo README.md con la información detallada del proyecto
-readme_content_detailed = """
+
 # Proyecto Final
 
 ## Descripción del Proyecto
@@ -70,9 +69,11 @@ Para configurar el entorno y ejecutar los scripts, sigue estos pasos:
    ```bash
    git clone [URL del repositorio]
 2.  Navega al directorio del proyecto:
-   ```bash
+    ```bash
     cd [nombre del directorio]
-3. Instala las dependencias necesarias:
+    
+3. Instala las dependencias necesarias:    
+    ```bash
     pip install -r requirements.txt
 
 Uso
